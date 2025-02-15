@@ -43,7 +43,7 @@ DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4	Enterprise N
 4. slmgr /ato
 
 ## 📷 Screenshots
-![Manual aktivation](windows.jpg)
+![Manual aktivation](windows.png)
 
 ## 🔧 Requirements
 - Windows 10/11
